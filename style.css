@@ -1,0 +1,25 @@
+body{
+	text-align: center; 
+}
+#AppLab{
+	background-color: #094e9c;
+	text-align: center;
+}
+#Hr1{
+	height: 5px;
+	width: 100px;
+	border-width: 0px;
+	margin-top: -25px;
+}
+h1{
+	font-family: Consolas;
+	font-size: 35px;
+}
+#Games{
+	background-color: #831ca6;
+	text-align: center;
+}
+#Chatbot{
+	background-color: #30c9c4;
+	text-align: center;
+}
